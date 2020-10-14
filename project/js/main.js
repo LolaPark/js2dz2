@@ -67,7 +67,7 @@ class Cart {
   getCartDiscount() {} //вычислить сумму скидки для товаров в корзине
 
 }
-
+//нужно что-то изменить
 //Класс для элемента корзины
 class CartItem {
   constructor(product, quantity, img='https://placehold.it/200x150') {
